@@ -1,0 +1,9 @@
+<resources>
+    <!--Strings -->
+    <string name="app_name">ExoPlayer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Values -->
+    <string name="video_ratio">16:9</string>
+
+</resources>
